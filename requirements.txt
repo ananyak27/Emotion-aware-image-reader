@@ -1,0 +1,10 @@
+Flask
+python-dotenv
+pytesseract
+Pillow
+requests
+transformers
+torch
+nltk
+scikit-learn
+numpy
