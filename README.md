@@ -160,9 +160,8 @@ The model is stored in the `emotion_model` directory.
 
 ---
 
-## Author
+## Contributers
 
-**Ananya Hebbar**
-
-GitHub: https://github.com/ananyak27  
-LinkedIn: https://www.linkedin.com/in/ananya-hebbar/
+- Ananya Hebbar
+- Abhijna V N 
+- P Harshitha
